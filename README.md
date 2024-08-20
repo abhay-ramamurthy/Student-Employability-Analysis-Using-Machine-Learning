@@ -8,7 +8,7 @@ This is a Flask admin dashboard template that displays user information in a tab
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/Churanta/Login-and-Signup-using-Flask.git
+git clone [https://github.com/abhay-ramamurthy/Student-Employability-Analysis-Using-Machine-Learning]
 2. Install all dependencies using pip3 install -r requirements.txt
 3. Run python app.py to start server
 4. Open http://localhost:5000 on your browser and you will see login page
