@@ -51,6 +51,7 @@ You can find screenshots of the admin dashboard below:
 
 ![Signup](screenshots/signup.jpg)
 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
